@@ -1,0 +1,14 @@
+# train: ../images/train/images
+train: ../subset/images
+val: ../images/valid/images
+test: ../images/test/images
+
+nc: 16
+names: ['1', '10', '11', '12', '13', '14', '2', '3', '4', '5', '6', '7', '8', '9', 'ball', 'player']
+
+roboflow:
+  workspace: tennis-wkg7w
+  project: tennis-all
+  version: 4
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/tennis-wkg7w/tennis-all/dataset/4

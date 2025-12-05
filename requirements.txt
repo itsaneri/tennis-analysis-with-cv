@@ -1,1 +1,9 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+opencv-python
+torch
+torchvision
 roboflow
+ultralytics

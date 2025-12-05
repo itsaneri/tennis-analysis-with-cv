@@ -8,6 +8,7 @@ to implement:
 2. detecting and tracking the tennis ball in play
 3. tracking the players (?)
 4. displaying gameplay stats on the side, including but not limited to:
+
     - the court lines and posiiton of player at all times
     - position of ball in play
     - where the ball lands
@@ -17,11 +18,21 @@ to implement:
 to try: pose detection of the player, speed of the ball, detecting type of strokes played (fronthand, backhand, etc.), a score board, predictions (?)
 
 
-Example:
+## Example:
+
 [enter gif here]
 
 
-Requirements:
+
+## Requirements:
 
 
-Conclusion: 
+## Conclusion: 
+
+
+## to initialise the project:
+
+conda create -n tennis-env python=3.10 -y
+conda activate tennis-env
+
+pip install -r requirements.txt    

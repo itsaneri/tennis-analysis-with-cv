@@ -1,1 +1,9 @@
-# /dataset/*
+/dataset/images/
+/dataset/subset/
+
+/runs
+main.py
+
+/court/keypoints.py
+court/subset.py
+court/court-detect.py
