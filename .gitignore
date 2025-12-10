@@ -1,9 +1,8 @@
 /dataset/images/
-/dataset/subset/
+# /dataset/videos/
 
 /runs
 main.py
 
-/court/keypoints.py
-court/subset.py
-court/court-detect.py
+__pycache__
+.vscode
