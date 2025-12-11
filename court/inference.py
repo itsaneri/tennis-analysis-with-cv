@@ -159,4 +159,4 @@ def run_video(video_path):
 
 
 if __name__ == "__main__":
-    run_video("dataset/videos/5.mp4")
+    run_video("dataset/videos/6.mp4")
